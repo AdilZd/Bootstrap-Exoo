@@ -1,0 +1,74 @@
+.boost {
+    display: flex;
+    justify-content: center;
+}
+
+#section2 {
+    justify-content: center;
+    display: flex;
+}
+
+#section3 {
+    justify-content: center;
+    display: flex;
+}
+
+.nomPrenom {
+    display: flex;
+    background-color: #f8f9fa;
+    justify-content: center;
+    width: 900px;
+}
+
+.prenomNom {
+    display: flex;
+    background-color: #f8f9fa;
+    justify-content: center;
+    width: 900px;
+    padding-top: 30px;
+}
+
+
+span {
+    font-size: 15px;
+}
+
+footer {
+    background-color: #32a2b8;
+    display: flex;
+}
+
+footer h1  {
+    color: white;
+    font-size: 25px;
+}   
+
+footer p {
+    color: white;
+}
+
+#left {
+    justify-content: center;
+    text-align: center;
+    width: 33%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#center {
+    justify-content: center;
+    text-align: center;
+    width: 33%;
+    margin-top: 70px;
+}
+
+#right {
+    width: 33%;
+    margin-top: 60px;
+}
+
+i {
+    color: white;
+    font-size: 50px;
+}
+
